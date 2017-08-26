@@ -1,23 +1,13 @@
 ## Alex Romac - Digital Resume
 
-You can use the [editor on GitHub](https://github.com/Aromac/ARfp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-
 # Work Experience
-- Evertrue - BDR
-- Social Edge Advisors - Owner
-- Zabcab - Intern
+- **Evertrue** - _BDR_
+- **Social Edge Advisors** - _Owner_
+- **Zabcab** - _Intern_
 ## Skills
--Python
--MS Suite
--Adobe Illustrator, Photoshop, Premiere Pro
+- Python
+- MS Suite
+- Adobe Illustrator, Photoshop, Premiere Pro
 ### Outlook
 -I see great opportunities in using public and proprietary data, together, to better serve customers.
 
